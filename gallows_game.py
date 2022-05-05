@@ -1,4 +1,3 @@
-from operator import le
 from random import choice
 
 list_of_words_secrets = ["Adriana", "Ana", "Maria", "Fernando", "Leonardo", "Renatinha", "Jacob"]
